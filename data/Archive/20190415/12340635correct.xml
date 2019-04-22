@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<email>
+    <from>ayoub.bellaj@picosoft.biz</from>
+    <to>ayoub.bellaj@picosoft.biz </to>
+    <subject>hello envelope 12</subject>
+    <attachmentfile>a.jpg</attachmentfile>
+    <sharedfile>c.jpg</sharedfile>
+    <templatefile>exampleTemplate.ejs</templatefile>
+    <name>h</name>
+    <date>2019/04/01</date>
+    <priority>high</priority>
+    <replyTo>ayoub.bellaaj@gmail.com</replyTo>
+    <filename>correct.xml</filename>
+    <errorCode>0</errorCode>
+    <messageId>&lt;452666c4-d9f9-0695-bd1d-7108ec4224d8@picosoft.biz></messageId>
+    <envelope>
+        <from>ayoub.bellaj@picosoft.biz</from>
+        <to>ayoub.bellaj@picosoft.biz</to>
+    </envelope>
+    <accepted>ayoub.bellaj@picosoft.biz</accepted>
+    <pending>undefined</pending>
+    <response>250 Message accepted for delivery</response>
+</email>

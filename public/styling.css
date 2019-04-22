@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+}
+.header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 60px;
+    background-color: coral;
+}
+.header-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+    letter-spacing: 3px;
+    margin-top: 20px;
+}
+.header-logo {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    width: 100px;
+    height: 50px;
+}

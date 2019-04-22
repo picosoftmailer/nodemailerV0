@@ -1,0 +1,10 @@
+<?xml version='1.0'?>
+<emai>
+    <from>ayoub.bellaj@picosoft.biz</from>
+    <to>ayoub.bellaj@picosoft.biz </to>
+    <subject>hello envelope 12</subject>
+    <attachmentfile>a.jpg</attachmentfile>
+    <sharedfile>c.jpg</sharedfile>
+    <templatefile>exampleTemplate.ejs</templatefile>
+    <name>h</name>
+</email>

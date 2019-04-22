@@ -1,0 +1,825 @@
+[2019-04-05T17:48:20.016] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-05T17:48:20.024] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-05T17:48:20.030] [ERROR] PSLogger - Error: Cannot enqueue Handshake after already enqueuing a Handshake.
+[2019-04-05T17:48:20.064] [ERROR] PSLogger - Error: Cannot enqueue Handshake after already enqueuing a Handshake.
+[2019-04-05T17:48:20.067] [ERROR] PSLogger - Error: Cannot enqueue Handshake after already enqueuing a Handshake.
+[2019-04-05T17:48:20.071] [ERROR] PSLogger - Error: Cannot enqueue Handshake after already enqueuing a Handshake.
+[2019-04-05T17:48:20.073] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-05T17:48:20.074] [ERROR] PSLogger - Error: Cannot enqueue Handshake after already enqueuing a Handshake.
+[2019-04-05T17:48:20.076] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-05T17:48:20.078] [ERROR] PSLogger - Error: Cannot enqueue Handshake after already enqueuing a Handshake.
+[2019-04-05T17:48:20.079] [ERROR] PSLogger - xml not correct
+[2019-04-05T17:48:20.082] [ERROR] PSLogger - exampleTemplate.ej[object Object]
+[2019-04-05T17:48:20.084] [ERROR] PSLogger - Error: Cannot enqueue Handshake after already enqueuing a Handshake.
+[2019-04-05T17:48:20.207] [ERROR] PSLogger - Error: Cannot enqueue Handshake after already enqueuing a Handshake.
+[2019-04-05T18:00:10.020] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-05T18:00:10.123] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-05T18:00:10.129] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-05T18:00:10.131] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-05T18:00:10.133] [ERROR] PSLogger - xml not correct
+[2019-04-05T18:00:10.135] [ERROR] PSLogger - exampleTemplate.ej[object Object]
+[2019-04-05T18:04:25.027] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-05T18:04:25.148] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-05T18:04:25.154] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-05T18:04:25.157] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-05T18:04:25.159] [ERROR] PSLogger - xml not correct
+[2019-04-05T18:04:25.161] [ERROR] PSLogger - exampleTemplate.ej[object Object]
+[2019-04-05T18:06:25.057] [ERROR] PSLogger - problem while sending mail : Error: No recipients defined
+[2019-04-05T18:21:15.226] [ERROR] PSLogger - Error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+[2019-04-05T18:27:20.222] [ERROR] PSLogger - Error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+[2019-04-05T18:29:30.213] [ERROR] PSLogger - Error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+[2019-04-05T18:29:45.210] [ERROR] PSLogger - Error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+[2019-04-05T18:30:05.219] [ERROR] PSLogger - Error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+[2019-04-08T09:14:20.294] [ERROR] PSLogger - Error: ER_EMPTY_QUERY: Query was empty
+[2019-04-08T09:21:11.420] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, '250 Message accepted for delivery')' at line 1
+[2019-04-08T09:22:30.205] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, '250 Message accepted for delivery')' at line 1
+[2019-04-08T09:23:25.195] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, '250 Message accepted for delivery')' at line 1
+[2019-04-08T09:28:20.266] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, '250 Message accepted for delivery')' at line 1
+[2019-04-08T09:29:25.309] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, '250 Message accepted for delivery')' at line 1
+[2019-04-08T09:33:05.212] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '250 Message accepted for delivery')' at line 1
+[2019-04-08T09:33:10.085] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '250 Message accepted for delivery')' at line 1
+[2019-04-08T09:34:25.209] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))' at line 1
+[2019-04-08T09:40:05.203] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))' at line 1
+[2019-04-08T09:41:00.184] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))' at line 1
+[2019-04-08T09:41:45.216] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))' at line 1
+[2019-04-08T09:42:10.182] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))' at line 1
+[2019-04-08T09:43:05.316] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))' at line 1
+[2019-04-08T09:57:25.197] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('correct.xml', ('ayoub.bellaj@picosoft.biz'), ('ayoub.bellaj@picosoft.' at line 1
+[2019-04-08T09:57:30.099] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('correct.xml', ('ayoub.bellaj@picosoft.biz'), ('ayoub.bellaj@picosoft.' at line 1
+[2019-04-08T09:58:25.337] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('correct.xml', ('ayoub.bellaj@picosoft.biz'), ('ayoub.bellaj@picosoft.' at line 1
+[2019-04-08T10:00:05.210] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('correct.xml', ('ayoub.bellaj@picosoft.biz'), ('ayoub.bellaj@picosoft.' at line 1
+[2019-04-08T10:01:20.195] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('correct.xml', ('ayoub.bellaj@picosoft.biz'), ('ayoub.bellaj@picosoft.' at line 1
+[2019-04-08T10:02:30.192] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('correct.xml', ('ayoub.bellaj@picosoft.biz'), ('ayoub.bellaj@picosoft.' at line 1
+[2019-04-08T10:17:50.285] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('correct.xml', ('ayoub.bellaj@picosoft.biz'), ('ayoub.bellaj@picosoft.' at line 1
+[2019-04-08T10:18:35.208] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('correct.xml', ('ayoub.bellaj@picosoft.biz'), ('ayoub.bellaj@picosoft.' at line 1
+[2019-04-08T10:18:40.117] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('correct.xml', ('ayoub.bellaj@picosoft.biz'), ('ayoub.bellaj@picosoft.' at line 1
+[2019-04-08T10:19:35.181] [ERROR] PSLogger - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('correct.xml', ('ayoub.bellaj@picosoft.biz'), ('ayoub.bellaj@picosoft.' at line 1
+[2019-04-08T10:47:40.018] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T10:49:50.028] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T10:51:10.028] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T10:54:30.016] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T10:55:40.020] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T10:55:40.108] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T10:55:40.148] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T10:55:40.150] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T10:55:40.156] [ERROR] PSLogger - exampleTemplate.ej[object Object]
+[2019-04-08T10:55:40.158] [ERROR] PSLogger - xml not correct
+[2019-04-08T11:02:50.018] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T11:02:50.110] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T11:05:20.017] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T11:05:20.113] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T11:07:15.017] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T11:07:15.105] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T11:08:45.015] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T11:08:45.118] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T11:10:25.014] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T11:10:25.096] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T11:46:20.145] [ERROR] PSLogger - Error: Cannot enqueue Query after invoking quit.
+[2019-04-08T11:46:20.151] [ERROR] PSLogger - Error: Cannot enqueue Query after invoking quit.
+[2019-04-08T11:59:40.018] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T11:59:40.111] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T11:59:40.148] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T11:59:40.150] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T11:59:40.151] [ERROR] PSLogger - xml not correct
+[2019-04-08T11:59:40.152] [ERROR] PSLogger - exampleTemplate.ej[object Object]
+[2019-04-08T12:04:30.016] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:04:30.106] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T12:04:30.145] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:04:30.148] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:04:30.150] [ERROR] PSLogger - xml not correct
+[2019-04-08T12:04:30.151] [ERROR] PSLogger - exampleTemplate.ej[object Object]
+[2019-04-08T12:08:45.015] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:08:45.113] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:08:45.121] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T12:08:45.142] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:08:45.145] [ERROR] PSLogger - xml not correct
+[2019-04-08T12:11:25.015] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:11:25.103] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:11:25.110] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T12:11:25.129] [ERROR] PSLogger - xml not correct
+[2019-04-08T12:11:25.130] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:13:20.012] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:13:20.105] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T12:13:20.113] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:13:20.115] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:17:20.013] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:17:20.100] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T12:17:20.108] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:17:20.130] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:19:00.015] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:19:00.124] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T12:19:00.127] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:19:00.128] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:20:10.014] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:20:10.104] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T12:20:10.113] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:20:10.139] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:22:05.020] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:22:05.111] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T12:22:05.142] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:22:05.145] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T12:22:05.147] [ERROR] PSLogger - xml not correct
+[2019-04-08T12:22:05.148] [ERROR] PSLogger - exampleTemplate.ej[object Object]
+[2019-04-08T15:06:50.022] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T15:06:50.107] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T15:06:50.141] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T15:06:50.143] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T15:06:50.145] [ERROR] PSLogger - xml not correct
+[2019-04-08T15:06:50.147] [ERROR] PSLogger - exampleTemplate.ej[object Object]
+[2019-04-08T15:14:20.019] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T15:14:20.104] [ERROR] PSLogger - az.jpg[object Object]
+[2019-04-08T15:14:20.153] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T15:14:20.155] [ERROR] PSLogger - z.jpg[object Object]
+[2019-04-08T15:14:20.157] [ERROR] PSLogger - xml not correct
+[2019-04-08T15:14:20.159] [ERROR] PSLogger - exampleTemplate.ej[object Object]
+[2019-04-08T15:14:20.212] [ERROR] PSLogger - Done
+[2019-04-08T15:14:20.234] [ERROR] PSLogger - Done
+[2019-04-08T15:14:20.234] [ERROR] PSLogger - Done
+[2019-04-08T15:14:20.235] [ERROR] PSLogger - Done
+[2019-04-08T15:14:20.235] [ERROR] PSLogger - Done
+[2019-04-08T15:14:20.236] [ERROR] PSLogger - Done
+[2019-04-08T15:14:20.236] [ERROR] PSLogger - Done
+[2019-04-08T15:14:20.236] [ERROR] PSLogger - Done
+[2019-04-08T15:14:20.236] [ERROR] PSLogger - Done
+[2019-04-08T15:14:20.344] [ERROR] PSLogger - Done
+[2019-04-08T15:15:40.305] [ERROR] PSLogger - Done
+[2019-04-08T15:17:30.302] [ERROR] PSLogger - Done
+[2019-04-08T15:18:45.262] [ERROR] PSLogger - Done
+[2019-04-08T15:20:10.289] [ERROR] PSLogger - Done
+[2019-04-08T17:10:30.106] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:10:30.110] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:10:35.011] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:10:35.012] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:10:40.019] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:10:45.014] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:10:45.014] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:10:48.014] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:11:30.028] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:11:30.032] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:12:00.012] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:12:00.014] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:12:30.007] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:12:38.008] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:13:00.011] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:13:09.012] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:13:30.007] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:13:30.007] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:14:00.006] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:14:00.007] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:14:30.007] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:14:39.008] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:15:00.007] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:15:00.008] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:15:30.007] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:15:30.008] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:16:00.007] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:16:00.008] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:16:30.008] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:16:30.009] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:17:00.007] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:17:10.008] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:17:30.008] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:17:39.009] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:18:00.007] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:18:07.008] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:18:30.009] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:18:30.010] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:19:00.007] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:19:10.007] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:19:30.010] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:19:40.010] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:20:00.007] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:20:07.007] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:20:30.007] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:20:38.011] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:21:00.006] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:21:09.007] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:21:30.005] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:21:30.006] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:22:00.005] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:22:00.006] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:22:30.005] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:22:38.011] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:23:00.006] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:23:00.007] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-08T17:25:29.009] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:25:39.011] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:26:12.011] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:26:17.013] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:26:17.014] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:26:24.012] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:26:52.015] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:27:04.015] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:27:28.015] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:27:43.018] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:27:50.017] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:28:01.018] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:28:31.018] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:28:44.019] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:28:48.019] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:28:57.019] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:29:38.019] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:29:39.021] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:29:58.022] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:30:12.021] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:30:17.021] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:30:32.021] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:30:42.024] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:31:10.085] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:31:30.084] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:31:42.087] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:31:53.087] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:31:54.087] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:32:26.087] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:32:36.087] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:32:44.089] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:33:03.089] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:33:17.089] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:33:39.090] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:33:57.096] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:33:59.095] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:34:14.095] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:34:24.096] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:35:01.097] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:35:12.098] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:35:35.097] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:35:44.100] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:35:46.100] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:36:05.100] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:36:35.100] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:36:39.101] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:36:57.103] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:37:07.102] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:37:31.102] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:37:33.103] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:37:47.106] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:38:10.106] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-08T17:38:17.106] [ERROR] PSLogger - problem while sending mail : Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+[2019-04-08T17:38:33.107] [ERROR] PSLogger - { Error: queryA ETIMEOUT xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:235:19)
+  code: 'EDNS',
+  errno: 'ETIMEOUT',
+  syscall: 'queryA',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-10T09:01:01.165] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-10T09:01:10.163] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-10T09:01:30.087] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-10T09:01:30.088] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-10T09:02:00.007] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-10T09:02:00.007] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-10T09:02:30.016] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-10T09:02:30.018] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-10T09:04:00.053] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-10T09:04:00.056] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-10T09:06:30.042] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-10T09:06:39.041] [ERROR] PSLogger - { Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+  code: 'EDNS',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'xxxmail.pcosoft.biz',
+  command: 'CONN' }
+[2019-04-10T09:29:45.109] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND xxxmail.pcosoft.biz
+[2019-04-10T09:30:05.106] [ERROR] PSLogger - problem while sending mail : Error: getaddrinfo ENOTFOUND mail.pcosoft.biz
+[2019-04-10T09:32:37.584] [ERROR] PSLogger - Error: connect ECONNREFUSED 127.0.0.1:3306
+[2019-04-10T09:34:01.874] [TRACE] PSLogger - Entering Cron
+[2019-04-10T09:34:05.001] [TRACE] PSLogger - Entering  Queue Folder
+[2019-04-10T09:34:10.002] [TRACE] PSLogger - Entering  Queue Folder
+[2019-04-10T09:34:15.001] [TRACE] PSLogger - Entering  Queue Folder
+[2019-04-10T09:34:20.002] [TRACE] PSLogger - Entering  Queue Folder
+[2019-04-10T09:35:16.940] [TRACE] PSLogger - Entering Cron
+[2019-04-10T09:35:20.001] [TRACE] PSLogger - Entering  Queue Folder
+[2019-04-10T09:35:20.002] [TRACE] PSLogger - entering ProcessFile
+[2019-04-10T09:35:20.013] [TRACE] PSLogger - entering send mail
+[2019-04-10T09:35:20.014] [TRACE] PSLogger - checking attachmentfile
+[2019-04-10T09:35:20.014] [TRACE] PSLogger - checking sharedfile
+[2019-04-10T09:35:20.015] [TRACE] PSLogger - checking templatefile
+[2019-04-10T09:35:20.017] [TRACE] PSLogger - mailoptions pushed
+[2019-04-10T09:35:20.017] [TRACE] PSLogger - creating transporter
+[2019-04-10T09:35:20.020] [TRACE] PSLogger - ..sendMail SMTP connection established with mail.picosoft.biz on port 25
+[2019-04-10T09:35:20.020] [TRACE] PSLogger - sending mail
+[2019-04-10T09:35:20.217] [TRACE] PSLogger - email sent 
+[2019-04-10T09:35:20.217] [TRACE] PSLogger - Starting Edit_parse_To_XML
+[2019-04-10T09:35:21.319] [TRACE] PSLogger - Error: connect ECONNREFUSED 127.0.0.1:3306
+[2019-04-10T09:35:21.319] [ERROR] PSLogger - Error: connect ECONNREFUSED 127.0.0.1:3306
+[2019-04-10T09:42:23.217] [TRACE] PSLogger - Entering Cron
+[2019-04-10T09:42:25.002] [TRACE] PSLogger - Entering  Queue Folder
+[2019-04-10T09:42:25.004] [TRACE] PSLogger - entering ProcessFile
+[2019-04-10T09:42:25.015] [TRACE] PSLogger - entering send mail
+[2019-04-10T09:42:25.015] [TRACE] PSLogger - checking attachmentfile
+[2019-04-10T09:42:25.016] [TRACE] PSLogger - checking sharedfile
+[2019-04-10T09:42:25.016] [TRACE] PSLogger - checking templatefile
+[2019-04-10T09:42:25.019] [TRACE] PSLogger - mailoptions pushed
+[2019-04-10T09:42:25.020] [TRACE] PSLogger - creating transporter
+[2019-04-10T09:42:25.022] [TRACE] PSLogger - ..sendMail SMTP connection established with mail.picosoft.biz on port 25
+[2019-04-10T09:42:25.023] [TRACE] PSLogger - sending mail
+[2019-04-10T09:42:25.118] [TRACE] PSLogger - email sent 
+[2019-04-10T09:42:25.120] [TRACE] PSLogger - Moving To Archive
+[2019-04-10T09:42:25.139] [TRACE] PSLogger - Moved To Archive
+[2019-04-10T09:42:26.222] [TRACE] PSLogger - databaseError: connect ECONNREFUSED 127.0.0.1:3306
+[2019-04-10T09:42:26.224] [ERROR] PSLogger - databaseError: connect ECONNREFUSED 127.0.0.1:3306
+[2019-04-10T09:42:30.001] [TRACE] PSLogger - Entering  Queue Folder
+[2019-04-10T09:42:54.665] [TRACE] PSLogger - Entering Cron
+[2019-04-10T09:42:55.002] [TRACE] PSLogger - Entering  Queue Folder
+[2019-04-10T09:43:00.001] [TRACE] PSLogger - Entering  Queue Folder
+[2019-04-10T10:01:34.717] [TRACE] PSLogger - Entering Cron
+[2019-04-10T10:01:35.002] [TRACE] PSLogger - Entering  Queue Folder
+[2019-04-10T10:01:35.003] [TRACE] PSLogger - entering ProcessFile
+[2019-04-10T10:01:35.017] [TRACE] PSLogger - entering send mail
+[2019-04-10T10:01:35.018] [TRACE] PSLogger - checking attachmentfile
+[2019-04-10T10:01:35.019] [TRACE] PSLogger - checking sharedfile
+[2019-04-10T10:01:35.019] [TRACE] PSLogger - checking templatefile
+[2019-04-10T10:01:35.023] [TRACE] PSLogger - mailoptions pushed
+[2019-04-10T10:01:35.023] [TRACE] PSLogger - creating transporter
+[2019-04-10T10:01:35.026] [TRACE] PSLogger - ..sendMail SMTP connection established with mail.picosoft.biz on port 25
+[2019-04-10T10:01:35.027] [TRACE] PSLogger - sending mail
+[2019-04-10T10:01:35.338] [TRACE] PSLogger - email sent 
+[2019-04-10T10:01:35.341] [TRACE] PSLogger - Moving To Archive
+[2019-04-10T10:01:35.362] [TRACE] PSLogger - Moved To Archive
+[2019-04-10T10:01:36.444] [ERROR] PSLogger - databaseError: connect ECONNREFUSED 127.0.0.1:3306
+[2019-04-10T10:01:36.445] [ERROR] PSLogger - databaseError: connect ECONNREFUSED 127.0.0.1:3306
+[2019-04-10T10:01:40.002] [TRACE] PSLogger - Entering  Queue Folder
+[2019-04-10T10:01:45.002] [TRACE] PSLogger - Entering  Queue Folder
+[2019-04-10T10:01:50.000] [TRACE] PSLogger - Entering  Queue Folder
+[2019-04-10T12:12:11.127] [ERROR] PSLogger - databaseError: connect ECONNREFUSED 127.0.0.1:3306
+[2019-04-10T12:12:11.129] [ERROR] PSLogger - databaseError: connect ECONNREFUSED 127.0.0.1:3306
+[2019-04-10T12:12:46.155] [ERROR] PSLogger - databaseError: connect ECONNREFUSED 127.0.0.1:3306
+[2019-04-10T12:12:46.157] [ERROR] PSLogger - databaseError: connect ECONNREFUSED 127.0.0.1:3306
+[2019-04-10T12:13:01.090] [ERROR] PSLogger - databaseError: connect ECONNREFUSED 127.0.0.1:3306
+[2019-04-10T12:13:01.091] [ERROR] PSLogger - databaseError: connect ECONNREFUSED 127.0.0.1:3306
+[2019-04-15T11:43:35.008] [ERROR] PSLogger - a.jpg[object Object]
+[2019-04-15T11:48:35.003] [ERROR] PSLogger - a.jpg[object Object]
+[2019-04-15T11:49:50.055] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:49:55.031] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:50:00.043] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:50:05.038] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:50:10.049] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:50:15.027] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:50:20.027] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:50:25.067] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:50:30.028] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:50:35.057] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:50:40.021] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:50:45.030] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:50:50.027] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:50:55.037] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:51:00.031] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:51:05.059] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:51:10.028] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:51:15.029] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:51:20.057] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:51:25.087] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:51:30.043] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:51:35.048] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:51:40.040] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:51:45.036] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:51:50.021] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:51:55.031] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:52:00.031] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:52:05.024] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:52:10.055] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:52:15.053] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:52:20.026] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:52:25.031] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:52:30.035] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:52:35.027] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:52:40.107] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:52:45.049] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:52:50.082] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:52:55.065] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:53:00.028] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:53:05.047] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:53:10.052] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:53:15.032] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:53:20.056] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:53:25.048] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:53:30.026] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:53:35.025] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:53:40.070] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:53:45.033] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:53:50.039] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:53:55.030] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:54:00.069] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:54:05.039] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:54:10.030] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:54:15.028] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T11:54:20.034] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T12:07:48.217] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T12:33:35.066] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-15T12:33:40.057] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing

@@ -1,0 +1,14 @@
+<?xml version='1.0'?>
+<email>
+    <from>@picosoft.biz</from>
+    <to>ayoub.bellaj@picosoft.biz </to>
+    <subject>hello envelope 12</subject>
+    <attachmentfile>a.jpg</attachmentfile>
+    <sharedfile>c.jpg</sharedfile>
+    <templatefile>exampleTemplate.ejs</templatefile>
+    <name>h</name>
+    <date>2019/04/01</date>
+    <priority>high</priority>
+    <replyTo>ayoub.bellaaj@gmail.com</replyTo>
+
+</email>
