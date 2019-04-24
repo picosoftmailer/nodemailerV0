@@ -26,12 +26,7 @@ exports.createMail = (req, res) => {
     obj.AttachmentFile = AttachmentFile;
 //Conversion de JSON vers XML
     let objXml = js2xmlparser.parse("email", obj);
-    // creation d'un dossier Queue
-    // mkdirp(PREF.QueueFolder, function(err) { 
-    // }); 
- 
-    // declare la variable XMLFile
-    var XmlFile = req.query.XmlFile;
+
     // ecrire dans le contenu de l'xml
         fs.writeFile( PREF.QueueFolder + obj.filename , objXml, function (err) {
             if (err) {
