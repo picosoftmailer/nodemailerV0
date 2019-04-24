@@ -1,5 +1,4 @@
-const pool = require('C:\\Users\\ayoub.bellaj\\Desktop\\nodemailerV0\\database\\config.js');
-//*******************************************
+
 exports.getMailProp = (object, property) => {
   if (property == "attachments") {
     if ((object.email.hasOwnProperty('attachmentfile')) && (object.email.hasOwnProperty('sharedfile')))
@@ -23,14 +22,5 @@ exports.getMailProp = (object, property) => {
 
   else return null;
 }
-//******************************************************
-exports.getType = (x) => {
-  
-  if((x=='id') || (x=='ErrorCode')){return 'number'}
-  else if ( x == 'Date') { return 'Date' }
-  else return 'string'
-
-
-  } 
 
 

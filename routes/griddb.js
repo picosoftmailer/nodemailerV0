@@ -1,6 +1,3 @@
-const express = require('express');
-const router = express.Router()
-const gt = require('C:\\Users\\ayoub.bellaj\\Desktop\\nodemailerV0\\MyFunctions\\get.js');
 const pool = require('../database/config');
 var total;
 //************************************************
@@ -14,10 +11,9 @@ pool.query('SELECT COUNT(*)  FROM customers', (error, result) => {
 });
 //******************************** 
 //route '/'
-router.get('/', (req, res) => { res.send({ message: 'Node.js and Express REST API' }); });
-//*********************************
-//route '/users'
-router.get('/users', (req, res) => { 
+const router = app =>{
+    //route '/users'
+app.get('/users', (req, res) => { 
     var take = req.param("take");
     var skip = req.param("skip");
     var orderby = req.param("orderby");
@@ -111,7 +107,6 @@ router.get('/users', (req, res) => {
                     var R = w[0].split(",<,");
                     var Q = w[1].split(",>=,");
                     ch += R[0] + ' < ' + '\'' + R[1] + '\'' + " or " + R[0] + ' >= ' + '\'' + Q[1] + '\'' + " AND "
-                    console.log(ch)
                 }
             }//end for
             ch = ch.substring(0, ch.length - 5)
@@ -133,9 +128,6 @@ router.get('/users', (req, res) => {
         test += ' LIMIT ' + take + ' OFFSET ' + skip;
         requeteFinal = test;
     }
-    
-    console.log('requeteFinal    ' + requeteFinal);
-
     //sql request
     pool.query(requeteFinal, (error, result) => {
         if (error) {
@@ -144,11 +136,12 @@ router.get('/users', (req, res) => {
             var obj = {}
             obj = { total: total }
             obj.data = result
-            res.send('   ' + JSON.stringify(obj));
+            res.send(JSON.stringify(obj));
         }
     });
 
 });
+}
 //**************************************************
 // Export the router
 module.exports = router;

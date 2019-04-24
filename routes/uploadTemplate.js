@@ -30,4 +30,7 @@ var storage = multer.diskStorage({
 
 router.post('/upload-template', upload.single('file'), uploadTemplateController.getTemplate);
 
+//**************************************************
+// Export the router
 module.exports = router;
+//**************************************************

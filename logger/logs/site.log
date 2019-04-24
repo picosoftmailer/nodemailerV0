@@ -823,3 +823,5 @@
 [2019-04-15T12:07:48.217] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
 [2019-04-15T12:33:35.066] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
 [2019-04-15T12:33:40.057] [ERROR] PSLogger - problem while sending mail : Error: Mail command failed: 501 Syntax error, parameters in command "MAIL FROM:<@picosoft.biz>" unrecognized or missing
+[2019-04-23T12:34:05.005] [ERROR] PSLogger - xml not correct
+[2019-04-23T12:34:35.005] [ERROR] PSLogger - databaseError: getaddrinfo ENOENT localhost:3306

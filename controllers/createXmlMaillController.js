@@ -35,9 +35,8 @@ exports.createMail = (req, res) => {
     // ecrire dans le contenu de l'xml
         fs.writeFile( PREF.QueueFolder + obj.filename , objXml, function (err) {
             if (err) {
-                return console.log(err);
+                return err;
             }
-            console.log("The file was saved!");
         });
     res.status(200).json({'msg': 'File created successfully!' ,  obj });
 

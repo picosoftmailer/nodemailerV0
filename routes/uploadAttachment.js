@@ -16,4 +16,7 @@ filename: function(req,file,cb) {
 var upload= multer({storage: storage});
 
 router.post('/upload-attachment', upload.single('file'), uploadAttachmentController.getAttachment);
+//**************************************************
+// Export the router
 module.exports = router;
+//**************************************************

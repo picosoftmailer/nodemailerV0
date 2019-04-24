@@ -4,4 +4,7 @@ const createXmlMaillController = require('../controllers/createXmlMaillControlle
 
 router.post('/create-email', createXmlMaillController.createMail);
 
+//**************************************************
+// Export the router
 module.exports = router;
+//**************************************************
