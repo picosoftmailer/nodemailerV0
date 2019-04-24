@@ -24,35 +24,5 @@ PREF = {
 };
 
 
-// function validatePred () 
-// {
-//     if (typeof PREF == 'undefined') {
-//         logger.fatal ("");
-//         return false;
-//     } else return true;
-
-// }
-
-
-
-
-/*  LOG_LEVEL
-OFF	    nothing is logged
-FATAL	fatal errors are logged
-ERROR	errors are logged
-WARN	warnings are logged
-INFO	infos are logged
-DEBUG	debug infos are logged
-TRACE	traces are logged
-ALL	    everything is logged
-*/
-
-/* LOG_METHOD : It logs in console and file, or in file, else in console
-
-consolefile : console and file
-file  : file only
-
-*/
-
 
 

@@ -1,22 +1,22 @@
 const fs = require('fs');
-
+var mailerProperties = require('../mailerproperties/mailerProperties');
 const router = app => {
     app.get('/getSharedFiles', (request, response) => {
         var r =[] 
-        var x = 'C:\\Users\\ayoub.bellaj\\Desktop\\nodemailerV0\\data\\SharedAtt'
+        var x = PREF.AttachmentFolder;
         getFolder(r,x)
         response.send(r)
        
     });
     app.get('/queue', (request, response) => {
         var r =[] 
-        var x = 'C:\\Users\\ayoub.bellaj\\Desktop\\nodemailerV0\\data\\Queue'
+        var x = PREF.QueueFolder;
         getFolder(r,x)
         response.send(r) 
     });
     app.get('/attachments', (request, response) => {
         var r =[] 
-        var x = 'C:\\Users\\ayoub.bellaj\\Desktop\\nodemailerV0\\data\\Att'
+        var x = PREF.AttachmentFile;
         getFolder(r,x)
         response.send(r) 
     });
