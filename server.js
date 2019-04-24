@@ -2,16 +2,13 @@ const express = require('express');
 const cors = require('cors');
 const path = require('path');
 const bodyParser = require('body-parser');
-const cron = require("node-cron");
 const crone = require ('./controllers/process_cron')
-const uploadTemplateRoutes = require('./routes/uploadTemplate');
-const uploadAttachmentRoutes = require('./routes/uploadAttachment');
-const createXmlMailRoutes = require('./routes/createXmlMail');
 const app = express();
+const createXmlMailRoutes = require('./routes/createXmlMail');
+const uploadAttachmentRoutes = require('./routes/uploadAttachment');
+const uploadTemplateRoutes = require('./routes/uploadTemplate');
 const WebServicegetFolder = require ('C:\\Users\\ayoub.bellaj\\Desktop\\nodemailerV0\\routes\\getFolder.js')
 const WebServicegriddb= require ('C:\\Users\\ayoub.bellaj\\Desktop\\nodemailerV0\\routes\\griddb.js');
-
-
 
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static(path.join(__dirname, 'public')));
@@ -25,11 +22,10 @@ app.use((req,res,next)=>{
     }
     next();
 });
-
+createXmlMailRoutes(app);
+uploadTemplateRoutes(app);
+uploadAttachmentRoutes(app);
 WebServicegetFolder(app);
 WebServicegriddb(app);
-app.use(uploadTemplateRoutes);
-app.use(uploadAttachmentRoutes);
-app.use(createXmlMailRoutes);
 app.set('view engine', 'ejs');
 app.listen(3200, '127.0.0.1' , crone.ProcessCron());

@@ -1,8 +1,5 @@
 // declaration des packages
-const express = require('express');
 var mailerProperties = require('../mailerproperties/mailerProperties');
-const router = express.Router();
-const uploadAttachmentController = require('../controllers/uploadAttachmentController');
 var multer = require('multer');
 var storage = multer.diskStorage({
 // preciser la destination     
@@ -14,8 +11,18 @@ filename: function(req,file,cb) {
 
 // importer le fichier
 var upload= multer({storage: storage});
-
-router.post('/upload-attachment', upload.single('file'), uploadAttachmentController.getAttachment);
+const router = (app) => {
+    app.post('/upload-attachment', upload.single('file'),(req, res, next) => {
+        res.status(200).json({
+          msg: 'File uploaded successfully!', 'file' : {
+           'name' : req.file.fieldname ,
+           'originalname ' : req.file.originalname,
+           'size' : req.file.size,
+           'mimetype' : req.file.mimetype,
+        }
+      });
+    });
+}
 //**************************************************
 // Export the router
 module.exports = router;
