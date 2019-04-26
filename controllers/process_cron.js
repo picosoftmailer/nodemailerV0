@@ -10,7 +10,7 @@ exports.ProcessCron = () => {
  logger.trace('Entering Cron');
     try {   
         cron.schedule(PREF.YourCron, () => {
-        PF.ProcessFolder(dir);
+       // PF.ProcessFolder(dir);
         });
     }
     catch (e) { logger.fatal('Problem in ProccessCron ' + e); } 
