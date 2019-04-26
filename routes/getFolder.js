@@ -1,30 +1,27 @@
 const fs = require('fs');
 var mailerProperties = require('../mailerproperties/mailerProperties');
 const router = app => {
-    app.get('/getSharedFiles', (res) => {
+    app.get('/sharedFiles', (req,res) => {
         var x = PREF.AttachmentFolder;
-        res.send(getFolder(x))
+       res.send(getFolder(x))
     });
-    app.get('/queue', (res) => {
+    app.get('/queue', (req,res) => {
         var x = PREF.QueueFolder;
         res.send(getFolder(x))
     });
-    app.get('/attachments', (res) => {
+    app.get('/attachments', (req,res) => {
         var x = PREF.AttachmentFile;
         res.send(getFolder(x))
     });
-    app.get('/Errors', (res) => {
+    app.get('/errors', (req,res) => {
         var x = PREF.ErrorsFolder;
         res.send(getFolder(x))
     });
-    app.get('/Template', (res) => {
+    app.get('/template', (req,res) => {
         var x = PREF.TemplateFolder;
         res.send(getFolder(x))
     });
-    app.get('/Archive', (res) => {
-        var x = PREF.ArchiveFolder;
-        res.send(getFolder(x))
-    });
+
 
 
 }
@@ -47,6 +44,8 @@ function getFolder(path) {
 
         });
         R["data"] = T;
+        R["total"] = T.length;
+
         return R;
     }
     catch (e) {
